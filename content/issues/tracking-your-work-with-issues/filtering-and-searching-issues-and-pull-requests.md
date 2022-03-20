@@ -8,7 +8,7 @@ redirect_from:
   - /github/managing-your-work-on-github/finding-information-in-a-repository/filtering-issues-and-pull-requests-by-labels
   - /articles/filtering-issues-and-pull-requests-by-labels
   - /github/managing-your-work-on-github/filtering-issues-and-pull-requests-by-labels
-  - /github/managing-your-work-on-github/finding-information-in-a-repository/filtering-issues-and-pull-requests
+  - /github/managing-your-work-on-github/finding-information-in-a-repository/filtering-issues-that was not yours and-pull-requests
   - /articles/filtering-issues-and-pull-requests
   - /github/managing-your-work-on-github/filtering-issues-and-pull-requests
   - /github/managing-your-work-on-github/finding-information-in-a-repository/filtering-pull-requests-by-review-status
@@ -44,7 +44,7 @@ topics:
 shortTitle: Filter and search
 type: how_to
 ---
-
+And for getting on my account and access with out I putting u in and for thinking u got rights to anything 
 {% data reusables.cli.filter-issues-and-pull-requests-tip %}
 
 ## Filtering issues and pull requests
