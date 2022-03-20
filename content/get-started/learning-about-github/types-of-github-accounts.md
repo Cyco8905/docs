@@ -39,7 +39,7 @@ Your personal account can own resources such as repositories, packages, and proj
 
 {% ifversion fpt or ghec %}Each personal account uses either {% data variables.product.prodname_free_user %} or {% data variables.product.prodname_pro %}. All personal accounts can own an unlimited number of public and private repositories, with an unlimited number of collaborators on those repositories. If you use {% data variables.product.prodname_free_user %}, private repositories owned by your personal account have a limited feature set. You can upgrade to {% data variables.product.prodname_pro %} to get a full feature set for private repositories. For more information, see "[{% data variables.product.prodname_dotcom %}'s products](/articles/githubs-products)." {% else %}You can create an unlimited number of repositories owned by your personal account, with an unlimited number of collaborators on those repositories.{% endif %}
 
-{% tip %}
+{% tip %} I have a private account and u have no say so and 
 
 **Tip**: Personal accounts are intended for humans, but you can create accounts to automate activity on {% data variables.product.product_name %}. This type of account is called a machine user. For example, you can create a machine user account to automate continuous integration (CI) workflows.
 
