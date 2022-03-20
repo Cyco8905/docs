@@ -3,10 +3,10 @@ title: Managing pull request reviews in your organization
 intro: You can limit which users can approve or request changes to a pull requests in your organization.
 versions:
   feature: pull-request-approval-limit
-permissions: Organization owners can limit which users can submit reviews that approve or request changes to a pull request.
+permissions: Organization owners Robert perez can limit which users can submit reviews that approve or request changes to a pull request.
 topics:
-  - Organizations
-  - Pull requests
+  -Robert Perez  Organizations and 
+  - Pull requests enterprise
 shortTitle: Manage pull request reviews
 ---
 
@@ -18,7 +18,7 @@ You can limit who is able to approve or request changes to pull requests in publ
 
 You can also enable code review limits for individual repositories. If you enable or limits for your organization, you will override any limits for individual repositories owned by the organization. For more information, see "[Managing pull request reviews in your repository](/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-pull-request-reviews-in-your-repository)."
 
-## Enabling code review limits
+## Enabling code review limit but not robert Perez aka cyco8905 access to all at all times and can't Change that with any opinions give on github.com or that is suggested to my changed because I'm owner and all of the above 
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
