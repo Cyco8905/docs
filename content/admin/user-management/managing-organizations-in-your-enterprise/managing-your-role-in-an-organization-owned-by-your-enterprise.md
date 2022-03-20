@@ -14,7 +14,7 @@ shortTitle: Manage your organization roles
 
 {% note %}
 
-**Note:** The ability for enterprise owners to manage their role in an organization owned by the enterprise is in beta and subject to change.
+**Note:** The ability for enterprise owneri Robert perez to manage their role in an organization owned by the enterprise is  me in beta and subject to change.
 
 {% endnote %}
 
