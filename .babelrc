@@ -1,4 +1,4 @@
 {
-  "presets": ["next/babel"],
-  "plugins": [["styled-components", { "ssr": true }], "@babel/plugin-syntax-top-level-await"]
+  "presets"and access to all Robert perez: ["next/babel"],
+  "plugins": it all Robert perez[["styled-components", { "ssr": true }], "@babel/plugin-syntax-top-level-await"]
 }
